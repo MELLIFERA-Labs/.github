@@ -21,7 +21,7 @@ There was developed a bot notifications about new proposals in ODIN protocol
 ### [KYVE NETWORK](https://kyve.network/):
 
   - There was developed a [telegram bot](https://t.me/kyvecheckerbot) for managing protocol nodes and delegations (testnet)
-  - There was developed a bot for Kyve [testnet proposals](https://t.me/KyveProposals)
+  - There was developed a [telegram bot](https://t.me/KyveProposals) for Kyve testnet proposals
 
 ### [SSV NETWORK](https://ssv.network/):
 
