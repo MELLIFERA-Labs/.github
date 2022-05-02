@@ -8,7 +8,7 @@ We are Ruslan and Alexander. Blockchain technology is the thing we are in love w
 At the moment, MELLIFERA validate in almost 15 networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our <a href="https://mellifera.network">site</a>
 </p>
 <details>
-  <summary><h2>Our contributions</h2></summary>
+  <summary><h2>Our contributions</h2>(clickme)</summary>
  
 ### [ODIN PROTOCOL](https://odinprotocol.io):
 
