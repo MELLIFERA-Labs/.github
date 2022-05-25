@@ -9,7 +9,10 @@ At the moment, MELLIFERA validate in almost 15 networks, in the testnets, devnet
 </p>
 <details>
   <summary><h2>Our contributions</h2>(clickme)</summary>
- 
+  
+### [COSMOS ECOSYSTEM](https://cosmos.network): 
+ - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem 
+
 ### [ODIN PROTOCOL](https://odinprotocol.io):
 
 There was developed a bot notifications about new proposals in ODIN protocol
