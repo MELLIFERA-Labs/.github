@@ -11,7 +11,8 @@ At the moment, MELLIFERA validate in almost 15 networks, in the testnets, devnet
   <summary><h2>Our contributions</h2>(clickme)</summary>
   
 ### [COSMOS ECOSYSTEM](https://cosmos.network): 
- - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem 
+ - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
+ - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
 
 ### [ODIN PROTOCOL](https://odinprotocol.io):
 
