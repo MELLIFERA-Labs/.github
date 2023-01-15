@@ -15,6 +15,9 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
  - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
  - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
 
+### [OKP4 NETWORK](https://okp4.network):
+  - [Network dashboard](https://okp4-testnet.mellifera.network/monitor) 
+  - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `peer` available by [link](https://okp4-testnet.mellifera.network/snapshot)
 ### [ODIN PROTOCOL](https://odinprotocol.io):
 
 There was developed a bot notifications about new proposals in ODIN protocol
@@ -27,6 +30,7 @@ There was developed a bot notifications about new proposals in ODIN protocol
 
   - There was developed a [telegram bot](https://t.me/kyvecheckerbot) for managing protocol nodes and delegations (testnet)
   - There was developed a [telegram bot](https://t.me/KyveProposals) for Kyve testnet proposals
+  
 
 ### [SSV NETWORK](https://ssv.network/):
 
