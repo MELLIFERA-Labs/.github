@@ -17,7 +17,7 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 
 ### [OKP4 NETWORK](https://okp4.network):
   - [Network dashboard](https://okp4-testnet.mellifera.network/monitor) 
-  - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `peer` available by [link](https://okp4-testnet.mellifera.network/snapshot)
+  - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `Peer` available by [link](https://mellifera.network/manuals/okp4.html)
 ### [ODIN PROTOCOL](https://odinprotocol.io):
 
 There was developed a bot notifications about new proposals in ODIN protocol
