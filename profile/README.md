@@ -24,6 +24,8 @@ There was developed a bot notifications about new proposals in ODIN protocol
  - [telegram bot](https://t.me/ODINproposals)
  - [discord bot]( https://discord.gg/cUXKyRq) in `voting proposal` branch
 
+[PR](https://github.com/ODIN-PROTOCOL/odin-web/pull/52) for ledger wallet support in [odin-web](https://mainnet.odinprotocol.io)
+
 <h4 align="center"><a href="https://mainnet.odinprotocol.io/validators/odinvaloper1pfs42htt5w4d65rjt9cs283c2sre4tf3t4sfl7">STAKE ODIN WITH US</a></h4>
 
 ### [KYVE NETWORK](https://kyve.network/):
