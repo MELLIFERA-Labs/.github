@@ -15,7 +15,7 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
  - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
  - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
 ### [Lava Network](https://www.lavanet.xyz) 
-  - Participate as Lava developer champion [program](https://lavanet.notion.site/Lava-Developer-Champions-18595ddcc59c445a8ef204dcd9732a8f)
+  - Participate in Lava developer champion [program](https://lavanet.notion.site/Lava-Developer-Champions-18595ddcc59c445a8ef204dcd9732a8f)
   - [Network dashboard](https://lava.mellifera.network/monitor/public-dashboards/a601fc0b300742999ed12cadf9de0fd1?orgId=1)
 ### [OKP4 NETWORK](https://okp4.network):
   - [Network dashboard](https://okp4-testnet.mellifera.network/monitor) 
