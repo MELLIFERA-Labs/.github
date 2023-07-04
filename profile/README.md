@@ -12,6 +12,7 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 
   
 ### [COSMOS ECOSYSTEM](https://cosmos.network): 
+ - Developed voting W!Signal [app](https://github.com/mellifera-labs/wsignal-info)
  - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
  - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
 ### [Agoric](https:://agoric.com): 
