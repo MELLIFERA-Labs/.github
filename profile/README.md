@@ -14,6 +14,9 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 ### [COSMOS ECOSYSTEM](https://cosmos.network): 
  - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
  - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
+### [Agoric](https:://agoric.com): 
+  - [Network dashboard](https://agoric.mellifera.network)
+  - `RPC`, `API`, `gRPC`, `Peer` available by [link](https://mellifera.network/manuals/agoric.html)
 ### [Lava Network](https://www.lavanet.xyz) 
   - Participate in Lava developer champion [program](https://lavanet.notion.site/Lava-Developer-Champions-18595ddcc59c445a8ef204dcd9732a8f)
   - [Network dashboard](https://lava.mellifera.network/monitor/public-dashboards/a601fc0b300742999ed12cadf9de0fd1?orgId=1)
@@ -25,16 +28,16 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 There was developed a bot notifications about new proposals in ODIN protocol
  - [telegram bot](https://t.me/ODINproposals)
  - [discord bot]( https://discord.gg/cUXKyRq) in `voting proposal` branch
-
-[PR](https://github.com/ODIN-PROTOCOL/odin-web/pull/52) for ledger wallet support in [odin-web](https://mainnet.odinprotocol.io)
+ - [PR](https://github.com/ODIN-PROTOCOL/odin-web/pull/55) Cosmostation wallet support in [odin-web](https://mainnet.odinprotocol.io)
+ - [PR](https://github.com/ODIN-PROTOCOL/odin-web/pull/52) for ledger wallet support in [odin-web](https://mainnet.odinprotocol.io)
 
 <h4 align="center"><a href="https://mainnet.odinprotocol.io/validators/odinvaloper1pfs42htt5w4d65rjt9cs283c2sre4tf3t4sfl7">STAKE ODIN WITH US</a></h4>
 
 ### [KYVE NETWORK](https://kyve.network/):
-
   - There was developed a [telegram bot](https://t.me/kyvecheckerbot) for managing protocol nodes and delegations (testnet)
   - There was developed a [telegram bot](https://t.me/KyveProposals) for Kyve testnet proposals
-  
+
+<h4 align="center"><a href="https://app.kyve.network/#/validators/kyve1dsk7wfy6n2ylwj8x2el6txgsyff8av6wa5yl28">STAKE KYVE WITH US</a></h4>  
 
 ### [SSV NETWORK](https://ssv.network/):
 
