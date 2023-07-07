@@ -22,7 +22,8 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
   - Participate in Lava developer champion [program](https://lavanet.notion.site/Lava-Developer-Champions-18595ddcc59c445a8ef204dcd9732a8f)
   - [Network dashboard](https://lava.mellifera.network/monitor/public-dashboards/a601fc0b300742999ed12cadf9de0fd1?orgId=1)
 ### [OKP4 NETWORK](https://okp4.network):
-  - [Network dashboard](https://okp4-testnet.mellifera.network/monitor) 
+  - [Network dashboard](https://okp4-testnet.mellifera.network/monitor)
+  - [PR](https://github.com/okp4/awesome/pull/33) for service status badge  
   - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `Peer` available by [link](https://mellifera.network/manuals/okp4.html)
 ### [ODIN PROTOCOL](https://odinprotocol.io):
 
