@@ -21,6 +21,7 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 ### [Lava Network](https://www.lavanet.xyz) 
   - Participate in Lava developer champion [program](https://lavanet.notion.site/Lava-Developer-Champions-18595ddcc59c445a8ef204dcd9732a8f)
   - [Network dashboard](https://lava.mellifera.network/monitor/public-dashboards/a601fc0b300742999ed12cadf9de0fd1?orgId=1)
+  - Participate in [Evmos](https://www.lavanet.xyz/blog/providers-guide-to-evmos-iprpc) and [Axelar](https://www.lavanet.xyz/blog/providers-guide-to-axelar-iprpc) ipRPC program 
 
 ### [KYVE NETWORK](https://kyve.network/):
   - [Restake service](https://kyve-restake.mellifera.network) for protol nodes
