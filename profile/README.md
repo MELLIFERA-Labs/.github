@@ -2,7 +2,7 @@
 <h4 align="center">We are blockchain validators</h4>
 <p align="center"><a href="https://mellifera.network">https://mellifera.network</a></p>
 <p align="center">
-We are Ruslan and Alexander. Blockchain technology is the thing we are in love with. It has already started changing the world and without doubts will continue changing in the future. That`s why we are here and for long term to figure out how it works in details. We are proude to be a part of this revolution
+I validate testnets and mainnets with enthusiasm, monitoring our nodes for the best service possible. I'm always on the hunt for new knowledge to help build a decentralized future
 <br>
 <br>
 At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our <a href="https://mellifera.network">site</a>
