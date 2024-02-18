@@ -12,14 +12,16 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 
   
 ### [COSMOS ECOSYSTEM](https://cosmos.network): 
- - Developed voting W!Signal [app](https://github.com/mellifera-labs/wsignal-info)
  - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
  - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
-### [Agoric](https:://agoric.com): 
-  - [Network dashboard](https://agoric.mellifera.network)
-  - `RPC`, `API`, `gRPC`, `Peer` available by [link](https://mellifera.network/manuals/agoric.html)
+### NAMADA 
+  - NAMADA Awesome webpage and github.com/mellifera-labs/namada-awesome
+  - NAMADA exporter for Prometheus metrics(in beta test)
+  - Multilang NAMADA [documentation](https://docs-multilang.namada-awesome.net) 
 ### [Lava Network](https://www.lavanet.xyz) 
+  - Developed Lava provider metric [exporter](https://github.com/mellifera-labs/lava-exporter) 
   - Participate in Lava developer champion [program](https://lavanet.notion.site/Lava-Developer-Champions-18595ddcc59c445a8ef204dcd9732a8f)
+  - Integrate LavaSdk in vote [Bot](https://github.com/MELLIFERA-Labs/janusbot)
   - [Network dashboard](https://lava.mellifera.network/monitor/public-dashboards/a601fc0b300742999ed12cadf9de0fd1?orgId=1)
   - Participate in [Evmos](https://www.lavanet.xyz/blog/providers-guide-to-evmos-iprpc) and [Axelar](https://www.lavanet.xyz/blog/providers-guide-to-axelar-iprpc) ipRPC program 
 
