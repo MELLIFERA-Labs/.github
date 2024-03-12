@@ -15,7 +15,8 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
  - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
  - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
 ### NAMADA 
-  - NAMADA Awesome webpage and github.com/mellifera-labs/namada-awesome
+  - NAMADA Awesome webpage and https://githul.com/mellifera-labs/namada-awesome
+  - IBC [viewer](https://ibc.namada-awesome.net) for NAMADA   
   - NAMADA exporter for Prometheus metrics(in beta test)
   - Multilang NAMADA [documentation](https://docs-multilang.namada-awesome.net) 
 ### [Lava Network](https://www.lavanet.xyz) 
