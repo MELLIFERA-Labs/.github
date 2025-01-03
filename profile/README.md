@@ -5,7 +5,7 @@
 I validate testnets and mainnets with enthusiasm, monitoring our nodes for the best service possible. We are always on the hunt for new knowledge to help build a decentralized future
 <br>
 <br>
-At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our <a href="https://mellifera.network">site</a>
+At the moment, MELLIFERA validate variety of networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our <a href="https://mellifera.network">site</a>
 </p>
 <details>
   <summary><h2>Our contributions</h2>(clickme)</summary>
