@@ -15,28 +15,32 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
  - Self hosted [Bot](https://github.com/MELLIFERA-Labs/janusbot) to easy vote in cosmos ecosystem
  - Bot that will help you convert one cosmos wallet address to another. [Bot](https://github.com/MELLIFERA-Labs/cosmovert)
 ### NAMADA 
+  - NAMADA exporter for [Prometheus metrics](https://github.com/mellifera-labs/namada-exporter)
+  - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `Peer` available by [link](https://services.mellifera.network/Mainnet/Namada/API)
   - NAMADA Awesome webpage and https://githul.com/mellifera-labs/namada-awesome
-  - IBC [viewer](https://ibc.namada-awesome.net) for NAMADA   
-  - NAMADA exporter for Prometheus metrics(in beta test)
+  - IBC [viewer](https://ibc.namada-awesome.net) for NAMADA in development 
+  - [PR](https://github.com/anoma/namada-interface/pull/491) for namada-interface
   - Multilang NAMADA [documentation](https://docs-multilang.namada-awesome.net) 
 ### [Lava Network](https://www.lavanet.xyz) 
+  - Staking and Restaking https://lava-explorer.mellifera.network/
+  - Cosmoshub spec champion and other specs contributor
+  - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `Peer` available by [link](https://services.mellifera.network/Mainnet/lava-network/api) 
+  - Guide to migrating to vault address. [link](https://services.mellifera.network/testnets/lava-network/vault-migration)
+  - Guide to run self hosted [Lava gateway](https://services.mellifera.network/testnets/lava-network/RPC_Consumer)
   - Developed Lava provider metric [exporter](https://github.com/mellifera-labs/lava-exporter) 
   - Participate in Lava developer champion [program](https://lavanet.notion.site/Lava-Developer-Champions-18595ddcc59c445a8ef204dcd9732a8f)
   - Integrate LavaSdk in vote [Bot](https://github.com/MELLIFERA-Labs/janusbot)
-  - [Network dashboard](https://lava.mellifera.network/monitor/public-dashboards/a601fc0b300742999ed12cadf9de0fd1?orgId=1)
-  - Participate in [Evmos](https://www.lavanet.xyz/blog/providers-guide-to-evmos-iprpc) and [Axelar](https://www.lavanet.xyz/blog/providers-guide-to-axelar-iprpc) ipRPC program 
+  - Participate in [Evmos](https://www.lavanet.xyz/blog/providers-guide-to-evmos-iprpc) and [Axelar](https://www.lavanet.xyz/blog/providers-guide-to-axelar-iprpc) NEAR,COSMOS, etc ipRPC program 
 
 ### [KYVE NETWORK](https://kyve.network/):
+  - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `Peer` available by [link](https://services.mellifera.network/Mainnet/kyve-network/api)
   - [Restake service](https://kyve-restake.mellifera.network) for protol nodes
   - There was developed a [telegram bot](https://t.me/kyvecheckerbot) for managing protocol nodes and delegations (testnet)
   - There was developed a [telegram bot](https://t.me/KyveProposals) for Kyve testnet proposals
 
-<h4 align="center"><a href="https://kyve-restake.mellifera.network/delegate">STAKE KYVE WITH US</a></h4> 
 
-### [OKP4 NETWORK](https://okp4.network):
-  - [Network dashboard](https://okp4-testnet.mellifera.network/monitor)
-  - [PR](https://github.com/okp4/awesome/pull/33) for service status badge  
-  - `Snapshot`, `RPC`, `API`, `gRPC`, `State Sync`, `Peer` available by [link](https://mellifera.network/manuals/okp4.html)
+<h4 align="center"><a href="https://kyve-restake.mellifera.network/delegate">STAKE KYVE WITH US</a></h4> 
+  
 ### [ODIN PROTOCOL](https://odinprotocol.io):
 
 There was developed a bot notifications about new proposals in ODIN protocol
@@ -47,9 +51,3 @@ There was developed a bot notifications about new proposals in ODIN protocol
 
 <h4 align="center"><a href="https://mainnet.odinprotocol.io/validators/odinvaloper1pfs42htt5w4d65rjt9cs283c2sre4tf3t4sfl7">STAKE ODIN WITH US</a></h4>
 
- 
-
-### [SSV NETWORK](https://ssv.network/):
-
-  - There was created a [telegram chat](https://t.me/SSV_follow) for exchange validators with carma system for CIS community (testnet)
-</details>
