@@ -2,7 +2,7 @@
 <h4 align="center">We are blockchain validators</h4>
 <p align="center"><a href="https://mellifera.network">https://mellifera.network</a></p>
 <p align="center">
-I validate testnets and mainnets with enthusiasm, monitoring our nodes for the best service possible. I'm always on the hunt for new knowledge to help build a decentralized future
+I validate testnets and mainnets with enthusiasm, monitoring our nodes for the best service possible. We are always on the hunt for new knowledge to help build a decentralized future
 <br>
 <br>
 At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our <a href="https://mellifera.network">site</a>
